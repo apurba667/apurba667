@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apurba Kumar Roy</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-* I'm a passionate learner who's always willing to learn and work across technologies and domains.
-* I love to explore new technologies and leverage them to solve real-life problems.
-* My current focus is building scalable and robust applications using the latest technologies.
+* I’m always eager to learn and embrace new technologies, using them to build scalable and robust apps that solve real-world problems.
+* Driven by a passion for innovation, I continuously explore and leverage the latest tools as a Mobile Application Developer to create seamless and impactful mobile experiences.
+* With every project, I aim to push the boundaries of what’s possible .
 
 <p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
