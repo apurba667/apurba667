@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/apurba-roy-4a7a871a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba-roy-4a7a871a0" height="30" width="40" /></a>
 <a href="https://fb.com/apurba.roy.anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba.roy.anik" height="30" width="40" /></a>
-<a href="https://instagram.com/the_apurba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_apurba" height="30" width="40" /></a>
+<a href="https://www.instagram.com/malfunction.in.style" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_apurba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
